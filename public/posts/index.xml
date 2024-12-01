@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Nov 2024 23:36:05 +0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third</title>
+      <link>http://localhost:1313/posts/third/</link>
+      <pubDate>Sat, 30 Nov 2024 23:36:05 +0400</pubDate>
+      <guid>http://localhost:1313/posts/third/</guid>
+      <description>&lt;h2 id=&#34;adfd&#34;&gt;adfd&lt;/h2&gt;&#xA;&lt;h3 id=&#34;adfd-1&#34;&gt;adfd&lt;/h3&gt;&#xA;&lt;h4 id=&#34;adfd-2&#34;&gt;adfd&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;adf&lt;/li&gt;&#xA;&lt;li&gt;adf&lt;/li&gt;&#xA;&lt;li&gt;adf&lt;/li&gt;&#xA;&lt;li&gt;adf&lt;/li&gt;&#xA;&lt;li&gt;adf&lt;/li&gt;&#xA;&lt;li&gt;adf&lt;/li&gt;&#xA;&lt;li&gt;adf&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;asdsdsff&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;/ asads&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Sat, 30 Nov 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;This is the content of the post that will appear when you enter the post page.&lt;/p&gt;&#xA;&lt;p&gt;This is the content of the post that will appear when you enter the post page.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/first-post1/</link>
+      <pubDate>Sat, 30 Nov 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first-post1/</guid>
+      <description>&lt;p&gt;What is Lorem Ipsum?&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/my-image.jpg&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
